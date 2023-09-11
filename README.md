@@ -17,7 +17,7 @@ https://janekomarovskaja.youtrack.cloud/issues?q=tag:%20%7Bsprint%202%7D
 
 ## Тестирование мобильных приложений и API
 
-_Часть 1: Мобильное приложение_
+**Часть 1: Мобильное приложение**
 Протестирована часть функциональности мобильного приложения Яндекс.Метро с помощью Android Studio
 
 Ссылка на гугл-таблицу с чек-листами:
@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1x0iLQmcH5M4jCN8_r7PpiLtxTBotm1Q9NjZgJf5H
 Ссылки на баг-репорты, заведённые в YouTrack:
 https://janekomarovskaja.youtrack.cloud/issues?q=tag:%20%7Bsprint%203%7D
 
-_Часть 2: API_
+**Часть 2: API**
 Протестировано несколько ручек для API Яндекс.Прилавка
 
 Ссылка на гугл-таблицу с чек-листами:
@@ -34,7 +34,7 @@ https://docs.google.com/spreadsheets/d/1x0iLQmcH5M4jCN8_r7PpiLtxTBotm1Q9NjZgJf5H
 
 ## Дипломный проект
 
-_Часть 1: Веб-приложение Яндекс.Самокат_
+**Часть 1: Веб-приложение Яндекс.Самокат**
 
 1) Разработана mindmap для формы заказа самоката. Отображена логика работы и вёрстка.
 
@@ -57,7 +57,7 @@ https://janekomarovskaja.youtrack.cloud/issues?q=tag:%20%7BDIPLOM_%20validation%
 https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4jeE/edit#gid=1539613303
 
 
-_Часть 2: Мобильное приложение Яндекс.Самокат_
+**Часть 2: Мобильное приложение Яндекс.Самокат**
 
 Спроектированы тест-кейсы и протестирована частично функциональность мобильного приложения. Тестирование проводилось на реальном устройстве.
 https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4jeE/edit#gid=424948590
@@ -65,7 +65,7 @@ https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4
 Ссылки на баг-репорты, заведённые в трекере:
 https://janekomarovskaja.youtrack.cloud/issues?q=tag:%20%7BDIPLOM_MOBIL%7D
 
-_Часть 3: API приложения Яндекс.Самокат_
+**Часть 3: API приложения Яндекс.Самокат**
 Протестировано несколько ручек для API Яндекс.Самоката
 https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4jeE/edit#gid=336872680
 
