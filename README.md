@@ -66,6 +66,7 @@ https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4
 https://janekomarovskaja.youtrack.cloud/issues?q=tag:%20%7BDIPLOM_MOBIL%7D
 
 **Часть 3: API приложения Яндекс.Самокат**
+
 Протестировано несколько ручек для API Яндекс.Самоката
 https://docs.google.com/spreadsheets/d/1ZzvXS_ZGgTYiEeLQC3ftSakpuub6VBIlzS8avzU4jeE/edit#gid=336872680
 
